@@ -1,0 +1,16 @@
+{
+    "@@locale": "fr",
+    "hello": "Hello",
+    "search": "Recherche",
+    "course": "Tendances Populaires",
+    "see": "Tout Voir",
+    "tutors": "Tuteurs Populaires",
+    "science": "Science",
+    "tech": "Technologie",
+    "econs": "Economie",
+    "maths": "Mathematiques",
+    "level": "Doctorat en Genie Logiciel",
+    "num": "No. D'etudiants",
+    "profile": "Voir le Profil",
+    "book": "Reserver"
+}

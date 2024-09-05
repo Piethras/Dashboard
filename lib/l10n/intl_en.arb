@@ -1,0 +1,16 @@
+{
+    "@@locale": "en",
+    "hello": "Hello",
+    "search": "Search",
+    "course": "Popular Trends",
+    "see": "See All",
+    "tutors": "Popular Tutors",
+    "science": "Science",
+    "tech": "Technology",
+    "econs": "Economics",
+    "maths": "Mathematics",
+    "level": "PhD in Software Engineering",
+    "num": "No. of Students",
+    "profile": "View Profile",
+    "book": "Book"
+}
